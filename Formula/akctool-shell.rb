@@ -1,4 +1,4 @@
-class AkcToolShell < Formula
+class AkctoolShell < Formula
   desc "A simple and powerful shell script for automation"
   homepage "https://github.com/Andyjicw/akcTool"
   url "https://github.com/Andyjicw/akcTool/archive/v1.0.0.tar.gz"
